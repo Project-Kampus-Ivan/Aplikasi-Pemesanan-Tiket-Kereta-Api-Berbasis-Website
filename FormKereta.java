@@ -1,0 +1,1 @@
+package master; import javax.swing.*; public class FormKereta extends JFrame {}
